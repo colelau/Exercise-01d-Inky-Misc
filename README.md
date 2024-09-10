@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Lauren Cole
 
-# Your Github username
+# colelau
